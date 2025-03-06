@@ -1,0 +1,17 @@
+SET(SOURCES ui_nowifi.c
+    ui_home.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c
+    ui_img_1336096536.c
+    ui_img_1503224665.c
+    ui_img_1288332288.c
+    ui_img_1313047014.c
+    ui_img_1991736760.c
+    ui_img_1276940811.c
+    fonts/ui_font_BebasNeue24.c
+    fonts/ui_font_Heavitas26.c
+    fonts/ui_font_LEMONMILK26.c)
+
+add_library(ui ${SOURCES})
