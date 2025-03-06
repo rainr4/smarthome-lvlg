@@ -1,0 +1,6 @@
+SD
+arduino-libraries/NTPClient@^3.2.1
+SPI
+lvgl/lvgl@8.3.8
+Wire
+codewitch-honey-crisis/htcw_esp_i2c

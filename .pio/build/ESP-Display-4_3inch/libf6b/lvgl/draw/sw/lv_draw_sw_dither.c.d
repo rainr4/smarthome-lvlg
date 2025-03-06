@@ -1,0 +1,30 @@
+.pio/build/ESP-Display-4_3inch/libf6b/lvgl/draw/sw/lv_draw_sw_dither.c.o: \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/lv_draw_sw_dither.c \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/lv_draw_sw_dither.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../core/lv_obj_pos.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../core/../misc/lv_area.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../core/../misc/../lv_conf_internal.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../core/../misc/../lv_conf_kconfig.h \
+ C:/Users/david/.platformio/packages/framework-arduinoespressif32@src-2e84b5f790772ba2a8c541b78863eb31/tools/sdk/esp32s3/qio_opi/include/sdkconfig.h \
+ C:/Users/david/.platformio/packages/framework-arduinoespressif32@src-2e84b5f790772ba2a8c541b78863eb31/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ include/lv_conf.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/lv_draw_sw_gradient.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_color.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/../lv_conf_internal.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_assert.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_log.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_types.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_mem.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_math.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_style.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/../font/lv_font.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/../font/../lv_conf_internal.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/../font/lv_symbol_def.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/../font/../misc/lv_area.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_color.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_area.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_anim.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_txt.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_printf.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_bidi.h \
+ .pio/libdeps/ESP-Display-4_3inch/lvgl/src/draw/sw/../../misc/lv_style_gen.h
